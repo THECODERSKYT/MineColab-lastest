@@ -41,7 +41,7 @@ As Google Colab is a VM running Ubuntu server as base OS, it can be easily used 
 
 ## 🐛 Found a bug?
 Report report the bug by creating a new issue and use this helpful [issue template](https://github.com/thecoder-001/MineColab/issues/new?assignees=&labels=bug&template=bug_report.md&title=%5BBUG%5D).
-
+ 
 Or suggest a new feature using this [template](https://github.com/thecoder-001/MineColab/issues/new?assignees=&labels=enhancement&template=feature_request.md&title=%5BFeature+Request%5D).
 
 ## 👍 Tips
@@ -51,3 +51,4 @@ Or suggest a new feature using this [template](https://github.com/thecoder-001/M
 
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/thecoder-001)
 
+IS FORK OF REAL PROHECT AND ALL CREDIT GOES TO thecoder-001 and its project is recountinued by me if any errors goubd please notify
