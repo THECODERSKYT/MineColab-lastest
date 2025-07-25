@@ -51,4 +51,4 @@ Or suggest a new feature using this [template](https://github.com/thecoder-001/M
 
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/thecoder-001)
 
-IS FORK OF REAL PROHECT AND ALL CREDIT GOES TO thecoder-001 and its project is recountinued by me if any errors goubd please notify
+IS FORK OF REAL PROHECT AND ALL CREDIT GOES TO thecoder-001 and its project is recountinued by me if any errors found please notify
